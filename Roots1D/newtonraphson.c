@@ -46,7 +46,8 @@ double newton_raphson(double x0, double tol, int max_iter)
 }
 
 // Ejecucion del Algoritmo:
-// > gcc newtonraphson.c -o newtonraphson && ./newtonraphson 
+// > gcc newtonraphson.c -o newtonraphson
+// > ./newtonraphson 
 int main()
 {
     // Condiciones iniciales
